@@ -1,6 +1,6 @@
 # Perspektivs-Landing-Page
 
-A beautiful landing page using Scss
+A beautiful landing page using Sass/Scss
 
 Technologies Used: 
 + HTML5 
