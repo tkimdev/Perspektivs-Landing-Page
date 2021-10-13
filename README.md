@@ -2,6 +2,8 @@
 
 A beautiful landing page using Sass/Scss
 
+### [Live Site](https://tonykimdev.github.io/Perspektivs-Landing-Page/)
+
 Technologies Used: 
 + HTML5 
 + Scss/Sass
